@@ -29,7 +29,7 @@ h1 {
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
-  background: #A9C951;
+  background: transparent;
   border: 3px solid #A9C951;
   border-radius: 6px;
   color: #A9C951;
